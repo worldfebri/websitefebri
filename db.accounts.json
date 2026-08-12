@@ -1,6 +1,6 @@
 {
   "password": "world132",
-  "adminPasswordMigratedWorld132": false,
+  "adminPasswordMigratedWorld132": true,
   "users": [
     {
       "username": "febri",
