@@ -41,6 +41,14 @@
       "icName": "",
       "roleIds": [],
       "createdAt": 1786573964432
+    },
+    {
+      "username": "yuyu",
+      "passwordHash": "80545170468a420be8a081e0b8a08017de803fcac7cf03a58832b65bfd59685f",
+      "likes": [],
+      "icName": "",
+      "roleIds": [],
+      "createdAt": 1786575183630
     }
   ],
   "roles": [],
@@ -49,6 +57,7 @@
     "world": [],
     "anjeng": [],
     "anjing": [],
-    "gh_admin": []
+    "gh_admin": [],
+    "yuyu": []
   }
 }
