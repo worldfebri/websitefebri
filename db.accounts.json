@@ -9,10 +9,19 @@
       "icName": "",
       "createdAt": 1786553801538,
       "roleIds": []
+    },
+    {
+      "username": "world",
+      "passwordHash": "68ce5b374d4209b601544c4061c95804866e70bc8b0687980fc646e2f1e05507",
+      "likes": [],
+      "icName": "",
+      "roleIds": [],
+      "createdAt": 1786558965093
     }
   ],
   "roles": [],
   "notifications": {
-    "febri": []
+    "febri": [],
+    "world": []
   }
 }
