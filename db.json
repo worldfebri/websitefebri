@@ -1,0 +1,129 @@
+{
+  "password": "WorldANjeng##",
+  "teritory": {
+    "image": "https://images.unsplash.com/photo-1547619292-240402b5ae5d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "text": "Wilayah kekuasaan utama. Pelanggaran batas wilayah tanpa izin akan ditindak tegas."
+  },
+  "race": {
+    "top": [
+      {
+        "title": "Race Information 01",
+        "text": "Tulis informasi race bagian pertama di sini."
+      },
+      {
+        "title": "Race Information 02",
+        "text": "Tulis informasi race bagian kedua di sini."
+      },
+      {
+        "title": "Race Information 03",
+        "text": "Tulis informasi race bagian ketiga di sini."
+      },
+      {
+        "title": "Race Information 04",
+        "text": "Tulis informasi race bagian keempat di sini."
+      }
+    ],
+    "bottom": {
+      "img": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+      "text": "Dokumentasi / foto race dapat diletakkan di bagian bawah."
+    }
+  },
+  "saas": {
+    "top": [
+      {
+        "img": "https://via.placeholder.com/400x250/141b22/e62429?text=Divisi+1",
+        "text": "Divisi Keamanan Internal",
+        "title": "Division 01"
+      },
+      {
+        "img": "https://via.placeholder.com/400x250/141b22/e62429?text=Divisi+2",
+        "text": "Intelijen & Pengawasan",
+        "title": "Division 02"
+      },
+      {
+        "img": "https://via.placeholder.com/400x250/141b22/e62429?text=Divisi+3",
+        "text": "Operasi Lapangan Khusus",
+        "title": "Division 03"
+      }
+    ],
+    "bottom": {
+      "img": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+      "text": "Sistem Administrasi Terpusat. Seluruh log terekam secara aman."
+    },
+    "discord": {
+      "link": "https://discord.gg/MqeWH9rxZV",
+      "text": "DISCORD SAAS"
+    },
+    "bottomMembers": [
+      {
+        "title": "ALL SYNDICATE MEMBER INTI",
+        "img": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+        "text": "Sistem Administrasi Terpusat. Seluruh log terekam secara aman."
+      },
+      {
+        "title": "ALL SYNDICATE MEMBER INTI 02",
+        "img": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+        "text": "Sistem Administrasi Terpusat. Seluruh log terekam secara aman."
+      },
+      {
+        "title": "ALL SYNDICATE MEMBER INTI 03",
+        "img": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+        "text": "Sistem Administrasi Terpusat. Seluruh log terekam secara aman."
+      }
+    ]
+  },
+  "club": [
+    {
+      "name": "Los Santos Midnight",
+      "img": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "text": "Los Santos Midnight Club - Markas Utama. Terbuka 24/7.",
+      "discord_link": "https://discord.com/",
+      "join_msg": "Silakan datang ke titik GPS Los Santos Midnight. Hubungi perwakilan kami saat tiba.",
+      "info": {
+        "top": [
+          {
+            "img": "https://via.placeholder.com/400x250/141b22/e62429?text=Info+1",
+            "text": "Divisi Rekrutmen Club"
+          },
+          {
+            "img": "https://via.placeholder.com/400x250/141b22/e62429?text=Info+2",
+            "text": "Divisi Modifikasi Kendaraan"
+          },
+          {
+            "img": "https://via.placeholder.com/400x250/141b22/e62429?text=Info+3",
+            "text": "Jadwal Balap Liar"
+          }
+        ],
+        "bottom": {
+          "img": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+          "text": "Aturan internal Club. Dilarang menyebarkan informasi ini ke pihak luar."
+        }
+      }
+    }
+  ],
+  "users": [
+    {
+      "username": "febri",
+      "passwordHash": "68ce5b374d4209b601544c4061c95804866e70bc8b0687980fc646e2f1e05507",
+      "likes": [],
+      "icName": "",
+      "createdAt": 1786553801538,
+      "roleIds": []
+    }
+  ],
+  "publicChat": [],
+  "publicChatOOC": [],
+  "publicChatIC": [],
+  "privateChats": {},
+  "notifications": {
+    "febri": []
+  },
+  "clubWebsiteRequests": [],
+  "saasEvent": {
+    "enabled": false,
+    "description": "ACARA SAAS BALAP ANTAR CLUB BERHADIAH $5.000 BUAT CLUB YANG BERTAHAN SAMPAI AKHIR",
+    "clubs": []
+  },
+  "saasEventRequests": [],
+  "roles": []
+}
