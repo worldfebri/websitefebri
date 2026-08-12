@@ -1,6 +1,14 @@
 {
   "publicChat": [],
-  "publicChatOOC": [],
+  "publicChatOOC": [
+    {
+      "username": "world",
+      "displayName": "world",
+      "text": "tes",
+      "category": "ooc",
+      "createdAt": 1786559015563
+    }
+  ],
   "publicChatIC": [],
   "privateChats": {}
 }
