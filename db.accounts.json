@@ -33,6 +33,14 @@
       "icName": "",
       "roleIds": [],
       "createdAt": 1786572072645
+    },
+    {
+      "username": "gh_admin",
+      "passwordHash": "fb738c8bc45f7855d977d79d9ac05fe671834733a0a719c33ca2174af2527e64",
+      "likes": [],
+      "icName": "",
+      "roleIds": [],
+      "createdAt": 1786573964432
     }
   ],
   "roles": [],
@@ -40,6 +48,7 @@
     "febri": [],
     "world": [],
     "anjeng": [],
-    "anjing": []
+    "anjing": [],
+    "gh_admin": []
   }
 }
