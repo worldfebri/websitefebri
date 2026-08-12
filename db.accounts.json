@@ -25,12 +25,21 @@
       "icName": "",
       "roleIds": [],
       "createdAt": 1786559288718
+    },
+    {
+      "username": "anjing",
+      "passwordHash": "8f3c3dca8a6d80bde33888214b24724d2fabaef16c43e20fe916250ec032b932",
+      "likes": [],
+      "icName": "",
+      "roleIds": [],
+      "createdAt": 1786572072645
     }
   ],
   "roles": [],
   "notifications": {
     "febri": [],
     "world": [],
-    "anjeng": []
+    "anjeng": [],
+    "anjing": []
   }
 }
